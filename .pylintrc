@@ -1,0 +1,2 @@
+[MESSAGES CONTROL]
+disable=missing-module-docstring, missing-class-docstring, missing-function-docstring, wrong-import-position, wrong-import-order, multiple-imports, trailing-whitespace, no-member, line-too-long, anomalous-backslash-in-string, invalid-name, missing-final-newline, redefined-outer-name
