@@ -14,3 +14,4 @@ uv.lock
 .pylintrc
 .adk/
 TravelEval.evalset.json
+*.db
